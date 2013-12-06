@@ -1,4 +1,4 @@
-(defproject pisto "0.1-SNAPSHOT"
+(defproject pisto "0.1"
   :description "A simplistic formalization of the lifecycle of stateful systems. Removes a lot of the pain related to debugging a system of many simple services."
   :license {:name "Eclipse Public License - v 1.0"
             :url "http://www.eclipse.org/legal/epl-v10.html"
